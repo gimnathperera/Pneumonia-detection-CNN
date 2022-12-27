@@ -1,6 +1,8 @@
-F
-M
-N
-Q
-S
-V
+Fusion beat (F)
+Unknown beat (Q)
+Normal beat (N)
+Unknown beat (Q)
+Supraventricular ectopic beat (S)
+ventricular ectopic beat (V)
+
+

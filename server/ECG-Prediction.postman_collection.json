@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "a1469701-a0e9-47dd-aee5-252d505c638c",
+		"name": "ECG-Prediction",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15580341"
+	},
+	"item": [
+		{
+			"name": "POST make prediction",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/D:/Dev-Space/Products/Ecg-App/dataset/ECG_Image_data/test/N/N37.png"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://192.168.8.100:80/api/predict",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"8",
+						"100"
+					],
+					"port": "80",
+					"path": [
+						"api",
+						"predict"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
