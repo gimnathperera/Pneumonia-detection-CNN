@@ -5,7 +5,6 @@
 
 Welcome to the Pneumonia Classification repository! This project aims to provide an accurate and efficient deep learning model for identifying various stages of pneumonia in X-ray images of the lungs. By leveraging the power of Convolutional Neural Networks (CNNs) and the TensorFlow library, we have developed a robust solution that can predict pneumonia stages with high accuracy.
 
-![image](https://github.com/Gimnath-Perera/ECG-server/assets/55834384/3707cb87-3e75-4502-8ef6-75b88171d721)
 
 ## Table of Contents
 - [Introduction](#introduction)
